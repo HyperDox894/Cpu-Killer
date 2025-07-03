@@ -33,7 +33,7 @@ nasm -f elf64 CPU-Killer.asm -o CPU-Killer.o
 ld CPU-Killer.o -o CPU-Killer
 7. ⚠ Run as Root (with Caution!)
 
-sudo ./cpu_overheat_kill
+sudo ./CPU-Killer
 -------------------------------------------------------------------------------
 🪟 Windows Method
 1. 🛠 Install NASM for Windows
